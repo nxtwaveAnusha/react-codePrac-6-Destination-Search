@@ -1,0 +1,19 @@
+.list-item {
+  list-style-type: none;
+}
+
+.card-con {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.img-size {
+  width: 350px;
+  border-radius: 10px;
+}
+.des-name {
+  color: #252627;
+  font-family: 'Open Sans';
+  font-size: 12px;
+}

@@ -1,0 +1,40 @@
+.list-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin: 30px;
+}
+.heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+.input-container {
+  display: flex;
+  background-color: #f1f5f9;
+  margin-left: 20px;
+  border: none;
+  border-radius: 8px;
+}
+.input-ele {
+  height: 25px;
+  width: 225px;
+  outline: none;
+  background-color: #f1f5f9;
+  margin-left: 20px;
+  border: none;
+  border-radius: 8px;
+}
+.cards-con {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 15px;
+}
+.icon-size {
+  width: 25px;
+}
